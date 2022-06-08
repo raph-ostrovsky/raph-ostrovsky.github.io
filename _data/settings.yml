@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Journal
-  site_tagline: A stunning personal blog Jekyll theme with an image-focused design.
+  site_title: Raph Ostrovsky Cybersecurity Blog
+  site_tagline: A personal cybersecurity blog
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -30,8 +30,8 @@ contact_settings:
 
 social_settings:
   facebook_url: ''
-  twitter_url: ''
-  instagram_url: ''
+  twitter_url: 'https://twitter.com/ronin_it_'
+  instagram_url: 'https://www.instagram.com/raph_way_/'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''

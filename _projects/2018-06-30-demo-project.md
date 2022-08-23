@@ -1,8 +1,8 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
-date: 2018-06-30 00:00:00
-featured_image: '/images/demo/demo-square.jpg'
+title: 'RaspberryPi Project'
+subtitle: 'Raport about my RaspberryPi journey'
+date: 2022-08-23 00:00:00
+featured_image: '/images/rasppi/background.jpg'
 ---
 
 ![](/images/demo/demo-landscape.jpg)

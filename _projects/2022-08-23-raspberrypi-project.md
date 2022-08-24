@@ -8,7 +8,7 @@ featured_image: '/images/rasppi/background.jpg'
 
 ### DAY I
 
-![[/images/rasppi/day_1.jpeg]]
+![](/images/rasppi/day_1.jpeg)
 
 * flashed the Raspberry PI OS with SSH and WI-FI Setup;
 * booted Raspberry Pi for the first time;

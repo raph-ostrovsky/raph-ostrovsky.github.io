@@ -21,7 +21,7 @@ featured_image: '/images/rasppi/background.jpg'
 
 * control Pi's GPIOs with Python
 
-![[/images/rasppi/day_2.jpeg]]
+![](/images/rasppi/day_2.jpeg)
 
 ```python
 import RPi.GPIO as pi
@@ -51,4 +51,4 @@ while True:
 
 * tried to add a button to control to led - failed
 
-![[/images/rasppi/day_3.jpeg]]
+![](/images/rasppi/day_3.jpeg)

@@ -5,8 +5,18 @@ date: 2022-08-23 00:00:00
 featured_image: '/images/rasppi/background.jpg'
 ---
 
+### DAY I
 
-<script src="https://tryhackme.com/badge/467129"></script>
+![](/images/rasppi/day_1.jpeg)
+
+
+* flashed the Raspberry PI OS with SSH and WI-FI Setup;
+* booted Raspberry Pi for the first time;
+* connected to Pi's using SSH;
+* setup VNC to get a remote access;
+* installed housing, heatsinks;
+* got familiar with Raspberry Pi OS.
+
 
 ### Day II
 

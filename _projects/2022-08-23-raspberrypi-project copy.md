@@ -7,8 +7,7 @@ featured_image: '/images/rasppi/background.jpg'
 
 ### DAY I
 
-![](/images/rasppi/day_1.jpeg)
-
+![My setup from day I](/images/rasppi/day_1.jpeg)
 
 * flashed the Raspberry PI OS with SSH and WI-FI Setup;
 * booted Raspberry Pi for the first time;
@@ -17,12 +16,11 @@ featured_image: '/images/rasppi/background.jpg'
 * installed housing, heatsinks;
 * got familiar with Raspberry Pi OS.
 
-
 ### Day II
 
 * control Pi's GPIOs with Python
 
-![](/images/rasppi/day_2.jpeg)
+![GPIO](/images/rasppi/day_2.jpeg)
 
 ```python
 import RPi.GPIO as pi
@@ -52,4 +50,4 @@ while True:
 
 * tried to add a button to control to led - failed
 
-![](/images/rasppi/day_3.jpeg)
+![Tried my best](/images/rasppi/day_3.jpeg)

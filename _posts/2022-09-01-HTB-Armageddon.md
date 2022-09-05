@@ -38,7 +38,7 @@ nmap reports `Drupal 7`
 
 `searchsploit drupal 7` 
 
-![](images/htb/htb_armageddon_1.png)
+![](/images/htb/htb_armageddon_1.png)
 
 `./44449.rb http://10.10.10.233`
 

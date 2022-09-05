@@ -7,7 +7,9 @@ excerpt: Armageddon
 
 ![](/images/htb/armageddon.png)
 
-`nmap -sC -sV -oA nmap/armageddon 10.10.10.233`
+```bash
+nmap -sC -sV -oA nmap/armageddon 10.10.10.233
+```
 
 ```
 Starting Nmap 7.92 ( https://nmap.org ) at 2022-08-29 15:42 CEST

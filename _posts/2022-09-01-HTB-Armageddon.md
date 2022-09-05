@@ -5,8 +5,6 @@ featured_image: '/images/htb/armageddon.png'
 excerpt: Armageddon
 ---
 
-![](/images/htb/armageddon.png)
-
 ```bash
 nmap -sC -sV -oA nmap/armageddon 10.10.10.233
 ```

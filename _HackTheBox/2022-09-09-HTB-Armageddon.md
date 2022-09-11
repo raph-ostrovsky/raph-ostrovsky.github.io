@@ -1,6 +1,6 @@
 ---
 title: 'HTB Armageddon'
-date: 2022-08-30 00:00:00
+date: 2022-09-09 12:00:00
 featured_image: '/images/htb/armageddon.png'
 excerpt: Armageddon
 ---

@@ -13,7 +13,10 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
-
+  HackTheBox:
+    output: true
+    permalink: /HackTheBox/:slug
+    
 defaults:
   -
     scope:
@@ -36,6 +39,12 @@ defaults:
     scope:
       path: ""
       type: "projects"
+    values:
+      layout: "project"
+  -
+    scope:
+      path: ""
+      type: "HackTheBox"
     values:
       layout: "project"
 

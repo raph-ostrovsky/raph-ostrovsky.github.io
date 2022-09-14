@@ -74,7 +74,7 @@ Shellcodes: No Results
 
 FTP open, needs creds.
 
-![](/images/htb/friendzone_http.png.png]]
+![](/images/htb/friendzone_http.png)
 
 
 ```bash
@@ -134,16 +134,16 @@ creds for the admin THING:
 admin:WORKWORKHhallelujah@#
 ```
 
-![](/images/htb/friendzone_portal.png.png]]
+![](/images/htb/friendzone_portal.png)
 
 
 
-![](/images/htb/friendzone_https.png.png]]
+![](/images/htb/friendzone_https.png)
 
 
-![](/images/htb/friendzone_pagesource.png]]
+![](/images/htb/friendzone_pagesource)
 
-![](/images/htb/friendzone_jsjs.png.png]]
+![](/images/htb/friendzone_jsjs.png)
 
 ```bash
 ┌──(rafael㉿ragnarok)-[/opt/Sublist3r]
@@ -175,7 +175,7 @@ admin:WORKWORKHhallelujah@#
 administrator1.friendzone.red
 ```
 
-![](/images/htb/friendzone_login.png.png]]![[/images/htb/etchosts.png.png]]![[/images/htb/haha.png.png]]
+![](/images/htb/friendzone_login.png]]![[/images/htb/etchosts.png]]![[/images/htb/haha.png]]
 
 rev.php = php_reverse_shell
 
@@ -193,7 +193,7 @@ smb: \> put rev.php
 putting file rev.php as \rev.php (32.7 kb/s) (average 32.7 kb/s)
 ```
 
-![](/images/htb/dashboard.png.png]]
+![](/images/htb/dashboard.png)
 
 We've got reverse shell:
 

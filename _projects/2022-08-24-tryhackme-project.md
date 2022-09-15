@@ -2,10 +2,16 @@
 title: 'TryHackMe'
 subtitle: 'My TryHackMe progress and achievements'
 date: 2022-08-24 00:00:00
-featured_image: '/images/thm/security.jpg'
+featured_image: '/images/thm/offensivepentesting.jpg'
 ---
 
-![TryHackMe - logo](/images/thm/logo_0.png)
+**TryHackMe** is a CTF platform to learn CyberSecurity, there are a lot of topics and modules, which covers a lot of aspects of the field. 
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ITronin.png "My TryHackMe profile")](https://tryhackme.com/p/ITronin)
+Highly recommended for beginners and everyone who wants to practice cybersecuity in really awesome way.
+
+My public profile is available here:
+
+https://tryhackme.com/p/ITronin
+
+
 

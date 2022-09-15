@@ -9,9 +9,7 @@ featured_image: '/images/thm/offensivepentesting.jpg'
 
 Highly recommended for beginners and everyone who wants to practice cybersecuity in really awesome way.
 
-My public profile is available here:
-
-https://tryhackme.com/p/ITronin
+[My public profile is available here.](https://tryhackme.com/p/ITronin)
 
 
 

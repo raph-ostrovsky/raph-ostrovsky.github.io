@@ -175,7 +175,9 @@ admin:WORKWORKHhallelujah@#
 administrator1.friendzone.red
 ```
 
-![](/images/htb/friendzone_login.png]]![[/images/htb/etchosts.png]]![[/images/htb/haha.png]]
+![](/images/htb/friendzone_login.png)
+![](/images/htb/etchosts.png)
+![](/images/htb/haha.png)
 
 rev.php = php_reverse_shell
 
